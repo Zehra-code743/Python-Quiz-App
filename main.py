@@ -103,4 +103,4 @@ if st.button('Submit Your Answer'):
     st.session_state.current_question = random.choice(questions)
     st.rerun()
     
-st.markdown('<h5 style="text-align: center; margin-top: 50px;">Built with ❤️ by Shan E Zehra</h5>', unsafe_allow_html=True)
+st.markdown('<h5 style="text-align: center; margin-top: 50px;">Built with ❤️ By Shan E Zehra</h5>', unsafe_allow_html=True)
